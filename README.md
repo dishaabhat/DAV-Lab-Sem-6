@@ -1,2 +1,2 @@
 # DAV-Lab-Sem-6
-Experiments of sem 6 are present here
+Experiments of Data Analytics and Visualization sem 6 
